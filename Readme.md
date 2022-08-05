@@ -7,7 +7,7 @@ By Ga-yana
 
 ## A static homepage for a consulting group.
 
-### Click [here]() to see it live
+### Click [here](https://consultingabc.netlify.app/) to see it live
 
 ![Homepage](./images/Screenshot%202022-08-05%20at%209.07.56%20PM.png)
 ![Homepage](./images/Screenshot%202022-08-05%20at%209.08.17%20PM.png)
