@@ -6,6 +6,7 @@ By Ga-yana
 #
 
 ## A static homepage for a consulting group.
+Tablet and mobile(at 425px) responsive too.
 
 ### Click [here](https://consultingabc.netlify.app/) to see it live
 
